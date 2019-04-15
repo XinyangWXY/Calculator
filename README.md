@@ -1,2 +1,2 @@
 # Calculator(Swift)
-BinCal
+Project about BinCal
